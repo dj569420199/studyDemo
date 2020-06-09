@@ -1,2 +1,0 @@
-# studyDemo
-study demo
